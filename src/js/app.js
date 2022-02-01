@@ -1,6 +1,6 @@
 var city;
 
-var key = 'd78f7c47ab341e4363a663482f4b3470';
+var key = 'a759adf0bde83d824203c3407ddb4652';
 
 async function onSearch() {
     var weatherManager = new WeatherManager()
