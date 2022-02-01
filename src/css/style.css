@@ -1,0 +1,44 @@
+/* nav {
+    background-color: #0dcaf0;
+} */
+
+
+body {
+    background-image: url("../img/city_vector.jpg");
+    /* background-color: #3dd5f3; */
+    background-color: rgba(31, 34, 118, 0.2);
+
+}
+
+#d-flex {
+    background-color :bisque;
+}
+
+#fas {
+    line-height: unset;
+    margin-right: 8px;
+
+}
+
+#fas:hover {
+    color: white;
+}
+
+#fa-tint {
+    line-height: unset;
+    margin-right: 8px;
+
+}
+
+.card {
+    margin: auto auto   ;
+}
+
+.hide {
+    display: none;
+}
+
+.text {
+    color: white;
+    font-weight: bold;
+}
